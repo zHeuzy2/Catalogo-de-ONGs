@@ -5,7 +5,9 @@ Um catálogo simples que reúne organizações não governamentais por **causa**
 ![licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-2e9e5b)
 ![React + Vite](https://img.shields.io/badge/React-Vite-3f7cc9)
 
-<!-- ![Screenshot do Catálogo de ONGs](docs/screenshot.png) -->
+## 📸 Screenshot
+
+![Catálogo de ONGs Locais](./public/image.png)
 
 ## Funcionalidades
 
