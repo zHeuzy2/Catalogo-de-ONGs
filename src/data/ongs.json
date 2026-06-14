@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "nome": "AMPARA Animal",
+    "causa": "animais",
+    "descricao": "Proteção de animais em risco, apoio a abrigos e campanhas de castração e adoção responsável.",
+    "cidade": "São Paulo, SP",
+    "site": "https://www.amparanimal.org.br",
+    "linkDoar": "https://www.amparanimal.org.br/doe",
+    "linkVoluntariar": "https://www.amparanimal.org.br/seja-voluntario"
+  },
+  {
+    "id": 2,
+    "nome": "SUIPA",
+    "causa": "animais",
+    "descricao": "Resgata, trata e abriga cães e gatos; mantém hospital veterinário e programas de adoção no Rio de Janeiro.",
+    "cidade": "Rio de Janeiro, RJ",
+    "site": "https://www.suipa.org.br",
+    "linkDoar": "https://www.suipa.org.br/doacoes",
+    "linkVoluntariar": "https://www.suipa.org.br/voluntariado"
+  },
+  {
+    "id": 3,
+    "nome": "Instituto Luisa Mell",
+    "causa": "animais",
+    "descricao": "Resgata animais em situação de maus-tratos e abandono, promove adoção e campanhas de conscientização.",
+    "cidade": "São Paulo, SP",
+    "site": "https://www.institutolusaiamell.com.br",
+    "linkDoar": "https://www.institutolusaiamell.com.br/doe",
+    "linkVoluntariar": "https://www.institutolusaiamell.com.br"
+  },
+  {
+    "id": 4,
+    "nome": "Umuarama Animais",
+    "causa": "animais",
+    "descricao": "Organização focada no resgate de animais abandonados e na adoção responsável no Paraná.",
+    "cidade": "Umuarama, PR",
+    "site": "https://www.ongsbrasil.com.br",
+    "linkDoar": "",
+    "linkVoluntariar": ""
+  },
+  {
+    "id": 5,
+    "nome": "Fundação Lemann",
+    "causa": "educacao",
+    "descricao": "Trabalha para que crianças e jovens tenham acesso a educação pública de qualidade em todo o país.",
+    "cidade": "São Paulo, SP",
+    "site": "https://fundacaolemann.org.br",
+    "linkDoar": "https://fundacaolemann.org.br",
+    "linkVoluntariar": "https://fundacaolemann.org.br"
+  },
+  {
+    "id": 6,
+    "nome": "Instituto Ayrton Senna",
+    "causa": "educacao",
+    "descricao": "Desenvolve soluções educacionais e forma educadores para ampliar oportunidades na escola pública.",
+    "cidade": "São Paulo, SP",
+    "site": "https://institutoayrtonsenna.org.br",
+    "linkDoar": "https://institutoayrtonsenna.org.br/pt-br/doe.html",
+    "linkVoluntariar": "https://institutoayrtonsenna.org.br"
+  },
+  {
+    "id": 7,
+    "nome": "Instituto Reação",
+    "causa": "educacao",
+    "descricao": "Usa o judô como ferramenta educacional para transformar a vida de jovens em situação de vulnerabilidade.",
+    "cidade": "Rio de Janeiro, RJ",
+    "site": "https://www.institutoreacao.org.br",
+    "linkDoar": "https://www.institutoreacao.org.br/doe",
+    "linkVoluntariar": "https://www.institutoreacao.org.br"
+  },
+  {
+    "id": 8,
+    "nome": "Projeto Âncora",
+    "causa": "educacao",
+    "descricao": "Escola e projeto social que oferece educação integral gratuita para crianças e adolescentes no interior de SP.",
+    "cidade": "Porto Feliz, SP",
+    "site": "https://www.projetoancora.org.br",
+    "linkDoar": "https://www.projetoancora.org.br/apoie",
+    "linkVoluntariar": "https://www.projetoancora.org.br"
+  },
+  {
+    "id": 9,
+    "nome": "SOS Mata Atlântica",
+    "causa": "meio-ambiente",
+    "descricao": "Promove a conservação e restauração da Mata Atlântica, monitorando florestas, rios e nascentes.",
+    "cidade": "São Paulo, SP",
+    "site": "https://www.sosma.org.br",
+    "linkDoar": "https://www.sosma.org.br/doe",
+    "linkVoluntariar": "https://www.sosma.org.br/voluntariado"
+  },
+  {
+    "id": 10,
+    "nome": "Instituto Socioambiental (ISA)",
+    "causa": "meio-ambiente",
+    "descricao": "Defende direitos socioambientais, povos indígenas e a proteção de territórios e florestas no Brasil.",
+    "cidade": "São Paulo, SP",
+    "site": "https://www.socioambiental.org",
+    "linkDoar": "https://www.socioambiental.org/apoie",
+    "linkVoluntariar": "https://www.socioambiental.org"
+  },
+  {
+    "id": 11,
+    "nome": "WWF-Brasil",
+    "causa": "meio-ambiente",
+    "descricao": "Trabalha pela conservação da natureza e uso sustentável dos recursos naturais em biomas brasileiros.",
+    "cidade": "Brasília, DF",
+    "site": "https://www.wwf.org.br",
+    "linkDoar": "https://doe.wwf.org.br",
+    "linkVoluntariar": "https://www.wwf.org.br"
+  },
+  {
+    "id": 12,
+    "nome": "Instituto Mamirauá",
+    "causa": "meio-ambiente",
+    "descricao": "Gestão participativa de reservas de desenvolvimento sustentável na Amazônia, aliando ciência e comunidades locais.",
+    "cidade": "Tefé, AM",
+    "site": "https://www.mamiraua.org.br",
+    "linkDoar": "https://www.mamiraua.org.br/apoie",
+    "linkVoluntariar": "https://www.mamiraua.org.br"
+  },
+  {
+    "id": 13,
+    "nome": "GRAACC",
+    "causa": "saude",
+    "descricao": "Oferece tratamento gratuito e de alta qualidade a crianças e adolescentes com câncer.",
+    "cidade": "São Paulo, SP",
+    "site": "https://www.graacc.org.br",
+    "linkDoar": "https://www.graacc.org.br/doe",
+    "linkVoluntariar": "https://www.graacc.org.br/seja-voluntario"
+  },
+  {
+    "id": 14,
+    "nome": "Médicos Sem Fronteiras Brasil",
+    "causa": "saude",
+    "descricao": "Assistência médica humanitária a pessoas afetadas por conflitos, epidemias e desastres no mundo.",
+    "cidade": "Rio de Janeiro, RJ",
+    "site": "https://www.msf.org.br",
+    "linkDoar": "https://www.msf.org.br/doe",
+    "linkVoluntariar": "https://www.msf.org.br/trabalhe-conosco"
+  },
+  {
+    "id": 15,
+    "nome": "APAE Brasil",
+    "causa": "saude",
+    "descricao": "Rede que promove atenção integral, saúde e inclusão de pessoas com deficiência intelectual e múltipla.",
+    "cidade": "Brasília, DF",
+    "site": "https://apaebrasil.org.br",
+    "linkDoar": "https://apaebrasil.org.br",
+    "linkVoluntariar": "https://apaebrasil.org.br"
+  },
+  {
+    "id": 16,
+    "nome": "Ação da Cidadania",
+    "causa": "assistencia-social",
+    "descricao": "Combate a fome e a desigualdade com campanhas de arrecadação e distribuição de alimentos em todo o país.",
+    "cidade": "Rio de Janeiro, RJ",
+    "site": "https://www.acaodacidadania.org.br",
+    "linkDoar": "https://www.acaodacidadania.org.br/doar",
+    "linkVoluntariar": "https://www.acaodacidadania.org.br/seja-voluntario"
+  },
+  {
+    "id": 17,
+    "nome": "Gerando Falcões",
+    "causa": "assistencia-social",
+    "descricao": "Rede que acelera o desenvolvimento de favelas com ações de educação, renda, cultura e cidadania.",
+    "cidade": "Poá, SP",
+    "site": "https://gerandofalcoes.com",
+    "linkDoar": "https://gerandofalcoes.com/doar",
+    "linkVoluntariar": "https://gerandofalcoes.com"
+  },
+  {
+    "id": 18,
+    "nome": "Cáritas Brasileira",
+    "causa": "assistencia-social",
+    "descricao": "Promove o desenvolvimento humano integral e defende os direitos de populações em situação de vulnerabilidade.",
+    "cidade": "Brasília, DF",
+    "site": "https://caritas.org.br",
+    "linkDoar": "https://caritas.org.br/apoie",
+    "linkVoluntariar": "https://caritas.org.br"
+  },
+  {
+    "id": 19,
+    "nome": "Abrinq — Fundação pelos Direitos da Criança e do Adolescente",
+    "causa": "criancas",
+    "descricao": "Defende os direitos de crianças e adolescentes e apoia programas sociais de proteção à infância.",
+    "cidade": "São Paulo, SP",
+    "site": "https://www.fadc.org.br",
+    "linkDoar": "https://www.fadc.org.br/apoie",
+    "linkVoluntariar": "https://www.fadc.org.br"
+  },
+  {
+    "id": 20,
+    "nome": "Instituto da Criança",
+    "causa": "criancas",
+    "descricao": "Atua no fortalecimento de vínculos familiares e no desenvolvimento integral de crianças em situação de risco.",
+    "cidade": "São Paulo, SP",
+    "site": "https://www.institutodacrianca.org.br",
+    "linkDoar": "https://www.institutodacrianca.org.br/doe",
+    "linkVoluntariar": "https://www.institutodacrianca.org.br"
+  },
+  {
+    "id": 21,
+    "nome": "Aldeias Infantis SOS Brasil",
+    "causa": "criancas",
+    "descricao": "Cuida de crianças e adolescentes que perderam o cuidado familiar, promovendo acolhimento e desenvolvimento.",
+    "cidade": "Brasília, DF",
+    "site": "https://www.aldeiasinfantis.org.br",
+    "linkDoar": "https://www.aldeiasinfantis.org.br/doe",
+    "linkVoluntariar": "https://www.aldeiasinfantis.org.br/voluntariado"
+  },
+  {
+    "id": 22,
+    "nome": "SESC — Serviço Social do Comércio",
+    "causa": "idosos",
+    "descricao": "Oferece programas de cultura, saúde, lazer e convivência para idosos em todo o Brasil.",
+    "cidade": "São Paulo, SP",
+    "site": "https://www.sesc.com.br",
+    "linkDoar": "",
+    "linkVoluntariar": "https://www.sesc.com.br"
+  },
+  {
+    "id": 23,
+    "nome": "Instituto Mais 60 — Saúde e Cidadania",
+    "causa": "idosos",
+    "descricao": "Promove saúde, autonomia e cidadania para a população idosa por meio de pesquisa e projetos sociais.",
+    "cidade": "São Paulo, SP",
+    "site": "https://mais60.org.br",
+    "linkDoar": "https://mais60.org.br/apoie",
+    "linkVoluntariar": "https://mais60.org.br"
+  },
+  {
+    "id": 24,
+    "nome": "Conectas Direitos Humanos",
+    "causa": "direitos-humanos",
+    "descricao": "Atua para garantir que o direito internacional dos direitos humanos seja aplicado e respeitado no Brasil e no Sul Global.",
+    "cidade": "São Paulo, SP",
+    "site": "https://www.conectas.org",
+    "linkDoar": "https://www.conectas.org/apoie",
+    "linkVoluntariar": "https://www.conectas.org"
+  },
+  {
+    "id": 25,
+    "nome": "Justiça Global",
+    "causa": "direitos-humanos",
+    "descricao": "Documentação e denúncia de violações de direitos humanos no Brasil, com foco em populações marginalizadas.",
+    "cidade": "Rio de Janeiro, RJ",
+    "site": "https://www.global.org.br",
+    "linkDoar": "https://www.global.org.br/apoie",
+    "linkVoluntariar": "https://www.global.org.br"
+  }
+]

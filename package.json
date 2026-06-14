@@ -1,0 +1,22 @@
+{
+  "name": "catalogo-ongs",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Catálogo de ONGs locais organizadas por causa, com links diretos para doar e ser voluntário.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.6.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.8"
+  }
+}
